@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "huds/itachi_killicon"
+	"$additive" 1
+	"$nolod" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
